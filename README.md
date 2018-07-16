@@ -1,5 +1,5 @@
 # Thingworx-WebServer-Requests
-Wrapper for requests to android webserver
+Wrapper for requests to android webserver for Thingworx
 
 # Create new Text object
 
